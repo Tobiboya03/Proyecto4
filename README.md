@@ -1,6 +1,1 @@
-#Este es un ejemplo de readme que va a servir para hacer modificaciones
-
-#Instalar estas dependencias
--- JQuery
--- Bootstrap
--- ES6
+Esta es una modificacion nueva en local, para adpatarse al remoto
